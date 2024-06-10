@@ -9,7 +9,7 @@
     "@erxes/ui" : "*",
     "add": "^2.0.6",
     "grapejs": "^2.1.2",
-    "grapesjs": "^0.19.4",
+    "grapesjs": "^0.21.10",
     "grapesjs-preset-webpage": "^0.1.11",
     "yarn": "^1.22.19"
   }
