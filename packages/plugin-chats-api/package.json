@@ -9,7 +9,7 @@
     "@erxes/api-utils" : "*",
     "aws-sdk": "^2.493.0",
     "firebase-admin": "^8.6.1",
-    "nodemailer": "^6.2.1",
+    "nodemailer": "^6.9.9",
     "telnyx": "^1.7.2"
   },
   "peerOptionalDependencies": {
